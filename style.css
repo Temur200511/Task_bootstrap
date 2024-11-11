@@ -14,3 +14,7 @@ text-align: center;
 text-decoration-skip-ink: none;
 
 }
+
+.grid_item{
+    border-radius: 10px;
+}
