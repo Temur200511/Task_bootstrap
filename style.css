@@ -18,3 +18,6 @@ text-decoration-skip-ink: none;
 .grid_item{
     border-radius: 10px;
 }
+.grid_second p{
+width: 220px;
+}
